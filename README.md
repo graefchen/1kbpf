@@ -1,3 +1,3 @@
 # 1kbpf
 
-Challange to create a good looking portfolio website under 1kb (1024 bytes)
+Challenge to create a good looking portfolio website under 1kB (1024 bytes)
